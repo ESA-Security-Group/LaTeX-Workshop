@@ -1699,7 +1699,7 @@
     "strip-json-comments": "^3.0.1",
     "tmp": "^0.0.33",
     "workerpool": "^5.0.0",
-    "ws": "^5.1.1"
+    "ws": "^7.4.6"
   },
   "devDependencies": {
     "@types/cross-spawn": "^6.0.1",
